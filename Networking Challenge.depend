@@ -1,0 +1,216 @@
+# depslib dependency file v1.0
+1464241213 source:c:\programming\projects\learning projects\c++\challenges\networking\main.cpp
+	<Client.h>
+	<Server.h>
+	<iostream>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\network.hpp
+	<SFML/System.hpp>
+	<SFML/Network/Ftp.hpp>
+	<SFML/Network/Http.hpp>
+	<SFML/Network/IpAddress.hpp>
+	<SFML/Network/Packet.hpp>
+	<SFML/Network/Socket.hpp>
+	<SFML/Network/SocketHandle.hpp>
+	<SFML/Network/SocketSelector.hpp>
+	<SFML/Network/TcpListener.hpp>
+	<SFML/Network/TcpSocket.hpp>
+	<SFML/Network/UdpSocket.hpp>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\fileinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\memoryinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\utf.inl
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\string.inl
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\thread.inl
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\threadlocalptr.inl
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\vector2.inl
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\system\vector3.inl
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\network\ftp.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/Network/TcpSocket.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\network\export.hpp
+	<SFML/Config.hpp>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\network\tcpsocket.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/Network/Socket.hpp>
+	<SFML/System/Time.hpp>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\network\socket.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/Network/SocketHandle.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<vector>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\network\sockethandle.hpp
+	<SFML/Config.hpp>
+	<basetsd.h>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\network\http.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/Network/IpAddress.hpp>
+	<SFML/Network/TcpSocket.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<map>
+	<string>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\network\ipaddress.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/System/Time.hpp>
+	<istream>
+	<ostream>
+	<string>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\network\packet.hpp
+	<SFML/Network/Export.hpp>
+	<string>
+	<vector>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\network\socketselector.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\network\tcplistener.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/Network/Socket.hpp>
+
+1440428466 c:\libraries\sfml-2.3.2-x64-mingw5.3.0\include\sfml\network\udpsocket.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/Network/Socket.hpp>
+	<vector>
+
+1464243859 source:c:\programming\projects\learning projects\c++\challenges\networking\src\client.cpp
+	"Client.h"
+	<iostream>
+
+1464240892 c:\programming\projects\learning projects\c++\challenges\networking\include\client.h
+	<SFML/Network.hpp>
+	<thread>
+
+1464244637 source:c:\programming\projects\learning projects\c++\challenges\networking\src\server.cpp
+	"Server.h"
+	<iostream>
+	<sstream>
+
+1464244361 c:\programming\projects\learning projects\c++\challenges\networking\include\server.h
+	<SFML/Network.hpp>
+	<thread>
+	<vector>
+	<list>
+
