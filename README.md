@@ -3,5 +3,7 @@ Challenge from r/dailyprogrammer https://www.reddit.com/r/dailyprogrammer/commen
 
 Game logic still incomplete.
 
+Uses one thread for each client and one for the listener on the server side. On the client side there is one thread for receiving messages and the main thread is used for sending.
+
 # Dependencies
 Made using SFML http://www.sfml-dev.org/
